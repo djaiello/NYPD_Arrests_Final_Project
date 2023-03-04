@@ -16,9 +16,19 @@ https://data.cityofnewyork.us/resource/8h9b-rp9u.csv
 https://data.cityofnewyork.us/api/views/8h9b-rp9u/rows.csv?accessType=DOWNLOAD
 
 ## Background/Purpose:
-We will be using NYPD arrest records 2006-end of last year, sourced from the "NYC OpenData" website, to build a relational database, build a machine learning model to find trends and patterns and/or make predictions and visually present statistically relevant data to answer the core project questions.
+In an attempt to better allocate current NYPD resources and future department spending, the city of New York has approached our firm to do an analysis of the crime in the city from both a demographic and geographic perspective.  They have made available to us the NYPD arrest records 2006-end of last year, sourced from the "NYC OpenData" website, to build a relational database, build a machine learning model to find trends and patterns and/or make predictions and visually present statistically relevant data to answer the core project questions.
 
 
 ## Project Questions:
-1. 
+1. What types and at what levels are crimes occuring in the city?
+2. What are the demographics (age, race, gender) by crime and level of offense of the offenders?
+3. Where (boro, neighborhood, street level) are crimes happening in the city?
+4. Based upon prior historical data can we make predictions about where specific crimes may happen in the future? 
+
+
+## List of Technologies:
+ETL - Python
+Database - PostgreSQL
+Visualizations - Tableau
+Machine Learning - Supervised ???
 

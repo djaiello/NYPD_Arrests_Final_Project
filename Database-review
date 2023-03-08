@@ -1,2 +1,0 @@
-### Database review per NY borough
-# First, we will be creating a database that shows the activity of crimes per NY borough and pinpointing which borougs has the highest number of crimes. Although a given borogh may have the higest number of crimes, it may not necessarily demonstrate to be the most dangerous borough. We will also factor in the category of crime (manslaughter, theft, assault, etc.) Based on our finding, we will determine which boroughs are in greater need of resources.

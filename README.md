@@ -32,3 +32,18 @@ Database - PostgreSQL
 Visualizations - Tableau
 Machine Learning - Supervised ???
 
+# DATABASE:
+
+
+
+
+
+
+# MACHINE LEARNING MODEL:
+
+
+
+
+
+
+# VISUALIZATION/PRESENTATION:

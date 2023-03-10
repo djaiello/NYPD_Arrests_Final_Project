@@ -34,10 +34,22 @@ Machine Learning - Supervised ???
 
 # DATABASE:
 
+Primary Technology used for the Visualizations
+•	For the interactive dashboard portion of the project, I will utilize Tableau to present our visualizations to their fullest.
 
+What type of Visualizations will we present
+•	I am going to be showing Charts, Graphs, and Maps to visualize what crimes happen and in what areas Specifically:
+o	Graphs showing the demographics of people committing the crimes.
+o	Graphs showing the type of crime being committed and how often the crime is committed.
+o	There will be a map of NYC showing the intensity of crimes occurring in those areas and will be able to add different filters so we can customize the data for more specific question.
 
+Reasons for choosing my section
+•	I chose the visualization section because in my prior experience interviewing for careers in data, I was told I lacked the practical skills they were looking for applicants to have in regard to presenting data. Specifically, I was told I needed more experience using Power BI, Tableau, Excel, and Salesforce. I figure if I flex my new knowledge I have acquired in this course it can show I am really capable in these software. 
 
-
+Describe the Data
+•	For our project we found a relative clean data set of New York City crime. 
+•	My main purpose is to create visualizations for our data to help any lay person figure out where high crime areas exist in NYC. 
+o	This can be useful for anyone even perspective tenants to choose where they would like to move to if they plan to move to NYC.
 
 # MACHINE LEARNING MODEL:
 

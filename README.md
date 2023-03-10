@@ -40,7 +40,7 @@ Machine Learning - Supervised ???
 
 # MACHINE LEARNING MODEL:
 
-We will run a supervised model (possibly Random Forest) where we will to predict the borough ("ARREST_BORO") of the crime, based upon the feature columns that make sense.
+We will run a supervised model (possibly Random Forest) where we will to predict the borough ("ARREST_BORO") of the crime, based upon the feature columns that make sense. The features will be "ARREST_DATE"(Grouped into smaller buckets to avoid encoding), "KY_CD"(needs to be encoded), "LAW_CAT_CD", "AGE_GROUP",  "PERP_SEX", "PERP_RACE". 
 
 
 

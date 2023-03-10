@@ -34,7 +34,7 @@ Machine Learning - Supervised ???
 
 # DATABASE:
 
-
+![image](https://user-images.githubusercontent.com/114360511/224211440-e245aca6-5ba6-4371-b481-05977e278860.png)
 
 
 

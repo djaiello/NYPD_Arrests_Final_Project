@@ -30,7 +30,7 @@ In an attempt to better allocate current NYPD resources and future department sp
 ETL - Python
 Database - PostgreSQL
 Visualizations - Tableau
-Machine Learning - Supervised ???
+Machine Learning - Supervised, Random Forest model
 
 # DATABASE:
 

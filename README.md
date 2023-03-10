@@ -34,6 +34,19 @@ Machine Learning - Supervised ???
 
 # DATABASE:
 
+
+
+
+
+# MACHINE LEARNING MODEL:
+
+
+
+
+
+
+# VISUALIZATION/PRESENTATION:
+
 Primary Technology used for the Visualizations
 •	For the interactive dashboard portion of the project, I will utilize Tableau to present our visualizations to their fullest.
 
@@ -50,12 +63,3 @@ Describe the Data
 •	For our project we found a relative clean data set of New York City crime. 
 •	My main purpose is to create visualizations for our data to help any lay person figure out where high crime areas exist in NYC. 
 o	This can be useful for anyone even perspective tenants to choose where they would like to move to if they plan to move to NYC.
-
-# MACHINE LEARNING MODEL:
-
-
-
-
-
-
-# VISUALIZATION/PRESENTATION:

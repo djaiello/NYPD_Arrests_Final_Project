@@ -30,17 +30,18 @@ In an attempt to better allocate current NYPD resources and future department sp
 ETL - Python
 Database - PostgreSQL
 Visualizations - Tableau
-Machine Learning - Supervised ???
+Machine Learning - Supervised, Random Forest model
 
 # DATABASE:
 
-
+![image](https://user-images.githubusercontent.com/114360511/224211440-e245aca6-5ba6-4371-b481-05977e278860.png)
 
 
 
 # MACHINE LEARNING MODEL:
 
-   We will run a supervised model (possibly Random Forest) where we will to predict the borough ("ARREST_BORO") of the crime, based upon the feature columns that make sense. The features will be "ARREST_DATE"(Grouped into smaller buckets to avoid encoding), "KY_CD"(needs to be encoded), "LAW_CAT_CD", "AGE_GROUP", "PERP_SEX", "PERP_RACE". I might also do a different model predicting the type of crime , based on the other columns or even predict the gender, age or race  based on the other columns. 
+   For the machine learning part I will run a supervised model (possibly Random Forest) where I will to predict the borough ("ARREST_BORO") of the crime, based upon the feature columns that make most sense. The features might be "ARREST_DATE"(Grouped into smaller buckets to avoid encoding), or "KY_CD" which will need to be encoded, "LAW_CAT_CD", "AGE_GROUP", "PERP_SEX", "PERP_RACE". 
+   I might also do a different model predicting the type of crime , based on the other columns or even predict the gender, age or race  based on the other columns, However due to lack of time this might be a great idea for a different project.
 
 
 

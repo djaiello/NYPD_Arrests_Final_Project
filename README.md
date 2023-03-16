@@ -45,9 +45,9 @@ Machine Learning - Supervised, Random Forest model
    ![](https://github.com/djaiello/NYPD_Arrests_Final_Project/blob/7fc13bafb558d77e65db9b414b13d963ba9c5d1f/Machine%20Learning/New%20Ramdon%20Forest.png)
    
    
-   As part of the machine learning, I predicted the borough "ARREST_BORO" of the crime in NYC, based upon the feature columns that makes most sense. The features that I used were PD_CD, KY_CD, LAW_CAT_CD, AGE_GROUP, PERP_SEX and PERP_RACE.
+   As part of the machine learning portion, I predicted the borough "ARREST_BORO" of the crimes in NYC, based upon the feature columns that makes most sense to me. The features that I used were PD_CD, KY_CD, LAW_CAT_CD, AGE_GROUP, PERP_SEX and PERP_RACE.
    
-   I had to encode this features as seeing being below. 
+   I had to encode these features as seeing below. 
    ![](https://github.com/djaiello/NYPD_Arrests_Final_Project/blob/ceb6632a6a8983ba05d558e4fca17c3a9fc472c5/Machine%20Learning/Encoding%20.png)
    
    After encoding the features into numbers, and inputing the ramdon forest, I was able to move to the confusion matrix part of the project.

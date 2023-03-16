@@ -83,4 +83,4 @@ Describe the Data
 o	This can be useful for anyone even perspective tenants to choose where they would like to move to if they plan to move to NYC.
 
 Link to Tableau Public Data Story:
-• https://public.tableau.com/shared/G5TMYRSX2?:display_count=n&:origin=viz_share_link
+• https://public.tableau.com/views/FinalProject-RDSBC/CrimeMappinginNewYork?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link

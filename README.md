@@ -42,7 +42,7 @@ Machine Learning - Supervised, Random Forest model
 
    For the machine learning part I have run a supervised model, to be espesific, Random Forest. Please see the image below for refrence.
    
-   ![](https://github.com/djaiello/NYPD_Arrests_Final_Project/blob/ceb6632a6a8983ba05d558e4fca17c3a9fc472c5/Machine%20Learning/Ramdon%20Forest.png)
+   ![](https://github.com/djaiello/NYPD_Arrests_Final_Project/blob/7fc13bafb558d77e65db9b414b13d963ba9c5d1f/Machine%20Learning/New%20Ramdon%20Forest.png)
    
    
    As part of the machine learning, I predicted the borough "ARREST_BORO" of the crime in NYC, based upon the feature columns that makes most sense. The features that I used were PD_CD, KY_CD, LAW_CAT_CD, AGE_GROUP, PERP_SEX and PERP_RACE.

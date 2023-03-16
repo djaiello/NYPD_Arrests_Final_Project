@@ -34,7 +34,7 @@ Machine Learning - Supervised, Random Forest model
 
 # DATASET ETL:
 ## NYPD Dataset Field Descriptions:
-https://github.com/djaiello/NYPD_Arrests_Final_Project/blob/main/Dataset%20Resources/NYPD%20Arrests%20Data%20(Historic)%20Dataset%20Format.xlsx
+![image](https://user-images.githubusercontent.com/114360511/225769255-2879d434-a577-4b68-83f9-e221479f708b.png)
 
 
 # DATABASE:

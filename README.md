@@ -32,10 +32,21 @@ Database - PostgreSQL
 Visualizations - Tableau
 Machine Learning - Supervised, Random Forest model
 
+# DATASET ETL:
+
 # DATABASE:
+## NYPD Arrest DB: Entity Relationship Diagram (ERD)
+![image](https://user-images.githubusercontent.com/114360511/225763154-e220a451-3b24-490e-a0f7-16c650b1caf3.png)
 
-![image](https://user-images.githubusercontent.com/114360511/224211440-e245aca6-5ba6-4371-b481-05977e278860.png)
+## NYPD Arrest DB: Build
+### PD_CD Table:
+![image](https://user-images.githubusercontent.com/114360511/225764230-3d9e0629-8c6c-4763-a60d-80776c851552.png)
 
+### KY_CD Table:
+![image](https://user-images.githubusercontent.com/114360511/225764273-6bc14344-c081-4281-b508-66ea764c7e88.png)
+
+### ARRESTS Table
+https://github.com/djaiello/NYPD_Arrests_Final_Project/blob/main/Database/arrests_table.PNG?raw=true
 
 
 # MACHINE LEARNING MODEL:

@@ -40,9 +40,22 @@ Machine Learning - Supervised, Random Forest model
 
 # MACHINE LEARNING MODEL:
 
-   For the machine learning part I will run a supervised model (possibly Random Forest) where I will to predict the borough ("ARREST_BORO") of the crime, based upon the feature columns that make most sense. The features might be "ARREST_DATE"(Grouped into smaller buckets to avoid encoding), or "KY_CD" which will need to be encoded, "LAW_CAT_CD", "AGE_GROUP", "PERP_SEX", "PERP_RACE". 
-   I might also do a different model predicting the type of crime , based on the other columns or even predict the gender, age or race  based on the other columns, However due to lack of time this might be a great idea for a different project. So far I have encoded my columns, I have also trained my model and I have also created a ramdon forest clasifier. 
-
+   For the machine learning part I have run a supervised model, to be espesific, Random Forest. Please see the image below for refrence.
+   
+   ![](https://github.com/djaiello/NYPD_Arrests_Final_Project/blob/ceb6632a6a8983ba05d558e4fca17c3a9fc472c5/Machine%20Learning/Ramdon%20Forest.png)
+   
+   
+   As part of the machine learning, I predicted the borough "ARREST_BORO" of the crime in NYC, based upon the feature columns that makes most sense. The features that I used were PD_CD, KY_CD, LAW_CAT_CD, AGE_GROUP, PERP_SEX and PERP_RACE.
+   
+   I had to encode this features as seeing being below. 
+   ![](https://github.com/djaiello/NYPD_Arrests_Final_Project/blob/ceb6632a6a8983ba05d558e4fca17c3a9fc472c5/Machine%20Learning/Encoding%20.png)
+   
+   After encoding the features into numbers, and inputing the ramdon forest, I was able to move to the confusion matrix part of the project.
+   After inputing my confusion matrix I was able make predictions as seeing below.
+   
+   ![](https://github.com/djaiello/NYPD_Arrests_Final_Project/blob/ceb6632a6a8983ba05d558e4fca17c3a9fc472c5/Machine%20Learning/Making%20Prediction.png)
+   
+    For a future projoect it would also be nice to do a different model predicting the type of crime , based on the other columns or even predict the gender, age or race  based on the other columns, However due to lack of time this might be a great idea for a different project. So far I have encoded my columns, I have also trained my model and I have also created a ramdon forest clasifier. 
 
 
 

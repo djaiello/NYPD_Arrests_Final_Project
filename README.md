@@ -55,7 +55,11 @@ Machine Learning - Supervised, Random Forest model
    
    ![](https://github.com/djaiello/NYPD_Arrests_Final_Project/blob/ceb6632a6a8983ba05d558e4fca17c3a9fc472c5/Machine%20Learning/Making%20Prediction.png)
    
-    For a future projoect it would also be nice to do a different model predicting the type of crime , based on the other columns or even predict the gender, age or race  based on the other columns, However due to lack of time this might be a great idea for a different project. So far I have encoded my columns, I have also trained my model and I have also created a ramdon forest clasifier. 
+   To conclude, please see a dataframe of the accuratecy score below. 
+   
+   ![](https://github.com/djaiello/NYPD_Arrests_Final_Project/blob/ceb6632a6a8983ba05d558e4fca17c3a9fc472c5/Machine%20Learning/Displaying%20results%20for%20Acc_score.png)
+   
+   For a future projoect it would also be nice to do a different model predicting the type of crime , based on the other columns or even predict the gender, age or race  based on the other columns, However due to lack of time this might be a great idea for a different project. So far I have encoded my columns, I have also trained my model and I have also created a ramdon forest clasifier. 
 
 
 

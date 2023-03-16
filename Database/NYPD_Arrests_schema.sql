@@ -27,12 +27,18 @@ CREATE TABLE "Arrests" (
 
 CREATE TABLE "PD_CD" (
     "pd_cd" float   NOT NULL,
-    "pd_desc" varchar   NOT NULL
+    "pd_desc" varchar   NOT NULL,
+    CONSTRAINT "pk_PD_CD" PRIMARY KEY (
+        "pd_cd"
+     )
 );
 
 CREATE TABLE "KY_CD" (
     "ky_cd" float   NOT NULL,
-    "ofns_desc" varchar   NOT NULL
+    "ofns_desc" varchar   NOT NULL,
+    CONSTRAINT "pk_KY_CD" PRIMARY KEY (
+        "ky_cd"
+     )
 );
 
 ALTER TABLE "Arrests" ADD CONSTRAINT "fk_Arrests_pd_cd" FOREIGN KEY("pd_cd")

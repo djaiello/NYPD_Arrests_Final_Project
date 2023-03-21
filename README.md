@@ -24,6 +24,11 @@ https://data.cityofnewyork.us/api/views/8h9b-rp9u/rows.csv?accessType=DOWNLOAD
 3. Where (boro, neighborhood, street level) are crimes happening in the city?
 4. Based upon prior historical data can we make predictions about where specific crimes may happen in the future? 
 
+## Data Exploration:
+
+## Data Analysis:
+
+
 ## Project Roles:
 - Overall Project Management/GitHub/Dataset ETL - Doug Aiello
 - Database Design and Production - Angelic Arias
@@ -37,10 +42,9 @@ Database - PostgreSQL<br />
 Machine Learning - Python (Google Collab), Supervised - Random Forest Model<br />
 Visualizations - Tableau<br />
 
-# DATASET ETL:
+# RESULTS: 
 
-
-# DATABASE:
+# Database:
 ## NYPD Arrest DB: Entity Relationship Diagram (ERD)
 ![image](https://user-images.githubusercontent.com/114360511/225763154-e220a451-3b24-490e-a0f7-16c650b1caf3.png)
 
@@ -104,3 +108,8 @@ o	This can be useful for anyone even perspective tenants to choose where they wo
 
 Link to Tableau Public Data Story:
 • https://public.tableau.com/views/FinalProject-RDSBC/CrimeMappinginNewYork?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+# Recommendations for Future Analysis:
+
+# Time Constraints:
+

@@ -34,8 +34,8 @@ https://data.cityofnewyork.us/api/views/8h9b-rp9u/rows.csv?accessType=DOWNLOAD
 ## List of Technologies:
 ETL - Python (Google Collab)<br />
 Database - PostgreSQL<br />
+Machine Learning - Python (Google Collab), Supervised - Random Forest Model<br />
 Visualizations - Tableau<br />
-Machine Learning - Python (Google Collab) Supervised, Random Forest model<br />
 
 # DATASET ETL:
 

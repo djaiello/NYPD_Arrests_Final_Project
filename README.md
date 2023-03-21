@@ -1,4 +1,4 @@
-# NYPD_Arrests_Final_Project
+# NYPD Arrests Final Project
 Repository for NYPD Arrests Dataset Final Project
 
 ## Project Roles:

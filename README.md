@@ -64,7 +64,7 @@ https://github.com/djaiello/NYPD_Arrests_Final_Project/blob/main/Database/arrest
 
 # MACHINE LEARNING MODEL:
 
-   For the machine learning part I have run a supervised model, to be espesific, Random Forest. Please see the image below for refrence.
+   For the machine learning part I have run a supervised model. Please see the image below for refrence. So far I have encoded my columns, I have also trained my model and I have also created a ramdon forest clasifier.
    
    ![](https://github.com/djaiello/NYPD_Arrests_Final_Project/blob/7fc13bafb558d77e65db9b414b13d963ba9c5d1f/Machine%20Learning/New%20Ramdon%20Forest.png)
    
@@ -87,9 +87,6 @@ https://github.com/djaiello/NYPD_Arrests_Final_Project/blob/main/Database/arrest
    
    ![](https://github.com/djaiello/NYPD_Arrests_Final_Project/blob/5414bda8699074564094fe8860ada6fabc980fc3/Machine%20Learning/100%25%20acurecy.png)
    
-   For a future project it would also be nice to do a different model predicting the type of crime , based on the other columns or even predict the gender, age or race  based on the other columns, However due to lack of time this might be a great idea for a different project. So far I have encoded my columns, I have also trained my model and I have also created a ramdon forest clasifier. 
-
-
 
 # VISUALIZATION/PRESENTATION:
 
@@ -114,6 +111,9 @@ Link to Tableau Public Data Story:
 • https://public.tableau.com/views/FinalProject-RDSBC/CrimeMappinginNewYork?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 # Recommendations for Future Analysis:
+
+ • Would be nice to do a different model predicting the type of crimes in NYC. 
+   
 
 # Time Constraints:
 

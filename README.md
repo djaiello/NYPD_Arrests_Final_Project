@@ -112,7 +112,7 @@ Link to Tableau Public Data Story:
 
 # Recommendations for Future Analysis:
 
- • Would be nice to do a different model predicting the type of crimes in NYC. 
+ • Would be nice to do a different model predicting the type of crimes in NYC. However due to time, it would have been more complicated to enconde the types of crimes. In the corent model I only have 5 different features to encode, the crimes section has hundreds of different crimes. 
    
 
 # Time Constraints:

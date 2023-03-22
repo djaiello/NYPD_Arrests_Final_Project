@@ -83,7 +83,7 @@ https://github.com/djaiello/NYPD_Arrests_Final_Project/blob/main/Database/arrest
    
    ![](https://github.com/djaiello/NYPD_Arrests_Final_Project/blob/ceb6632a6a8983ba05d558e4fca17c3a9fc472c5/Machine%20Learning/Displaying%20results%20for%20Acc_score.png)
    
-   It was a little tricky for me to pick an acurecy score since depending on the dataset the results would come out to be iether 40% or 100%  As seen in the image below. 
+   It was a little tricky for me to pick an acurecy score since depending on the dataset the results would come out to be either 40% or 100%  As seen in the image below. 
    
    ![](https://github.com/djaiello/NYPD_Arrests_Final_Project/blob/5414bda8699074564094fe8860ada6fabc980fc3/Machine%20Learning/100%25%20acurecy.png)
    

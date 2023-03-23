@@ -30,6 +30,11 @@ Machine Learning - Python (Google Collab), Supervised - Random Forest Model<br /
 Visualizations - Tableau<br />
 
 # ETL:
+- Null Handling
+- Deletion of Unnecessary Columns - Administrative fields
+- Data Format Conversion - ARREST_DATE
+- Value Grouping - AGE_GROUP
+- Data Limiting - Last 10 years
 
 # Database:
 ## NYPD Arrest DB: Entity Relationship Diagram (ERD)

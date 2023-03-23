@@ -32,8 +32,8 @@ Visualizations - Tableau<br />
 # ETL:
 - Null Handling
 - Deletion of Unnecessary Columns - Administrative fields
-- Data Format Conversion - ARREST_DATE
 - Value Grouping - AGE_GROUP
+- Data Format Conversion - ARREST_DATE
 - Data Limiting - Last 10 years
 
 # Database:

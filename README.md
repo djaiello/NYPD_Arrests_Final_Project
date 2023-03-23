@@ -4,7 +4,7 @@ Repository for NYPD Arrests Dataset Final Project
 ## Background/Purpose:
 In an attempt to better allocate current NYPD resources and future department spending, the city of New York has approached our firm to do an analysis of the crime in the city from both a demographic and geographic perspective.  They have made available to us the NYPD arrest records 2006-end of last year, sourced from the "NYC OpenData" website, to build a relational database, build a machine learning model to find trends and patterns and/or make predictions and visually present statistically relevant data to answer the core project questions.
 
-## Data Source:
+## Data Source & Exploration:
 ### "NYPD Arrest Data(Historic)" dataset
 - Lists every arrest in NYC going back to 2006 through the end of last year.
 - Each arrest record consists of data in 4 areas:
@@ -22,9 +22,6 @@ In an attempt to better allocate current NYPD resources and future department sp
 2. What are the demographics (age, race, gender) by crime and level of offense of the offenders?
 3. Where (boro, neighborhood, street level) are crimes happening in the city?
 4. Based upon prior historical data can we make predictions about where specific crimes may happen in the future? 
-
-## Data Exploration
-
 
 ## List of Technologies:
 ETL - Python (Google Collab)<br />

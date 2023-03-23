@@ -15,15 +15,7 @@ In an attempt to better allocate current NYPD resources and future department sp
 - Part of the "NYC OpenData" intiative, a free public data publishing by New York City agencies and partners 
 
 #### NYPD Dataset Field Descriptions:
-https://github.com/djaiello/NYPD_Arrests_Final_Project/blob/main/Dataset%20Resources/NYPD%20Arrests%20Data%20(Historic)%20Dataset%20Format.xlsx
-
-### Dataset Links
-- SAMPLE DATASET (1000 records only) NYPD Arrests Data (Historic)
-https://data.cityofnewyork.us/resource/8h9b-rp9u.csv
-
-- FULL DATASET (~5.3 million records) NYPD Arrests Data (Historic), 2006-end of last year 
-https://data.cityofnewyork.us/api/views/8h9b-rp9u/rows.csv?accessType=DOWNLOAD
-
+![image](https://user-images.githubusercontent.com/114360511/227314008-4ebde745-901b-450b-9df3-add55a6519cf.png)
 
 ## Project Questions:
 1. What types and at what levels are crimes occuring in the city?
@@ -31,17 +23,8 @@ https://data.cityofnewyork.us/api/views/8h9b-rp9u/rows.csv?accessType=DOWNLOAD
 3. Where (boro, neighborhood, street level) are crimes happening in the city?
 4. Based upon prior historical data can we make predictions about where specific crimes may happen in the future? 
 
-## Data Exploration:
+## Data Exploration
 
-## Data Analysis:
-
-
-## Project Roles:
-- Overall Project Management/GitHub/Dataset ETL - Doug Aiello
-- Database Design and Production - Angelic Arias
-- Machine Learning Design and Production - Israel Mejia
-- Visualization Design and Production - Andrew Nappi
-- Presentation and Delivery - All
 
 ## List of Technologies:
 ETL - Python (Google Collab)<br />
@@ -49,7 +32,7 @@ Database - PostgreSQL<br />
 Machine Learning - Python (Google Collab), Supervised - Random Forest Model<br />
 Visualizations - Tableau<br />
 
-# RESULTS: 
+# ETL:
 
 # Database:
 ## NYPD Arrest DB: Entity Relationship Diagram (ERD)
@@ -124,3 +107,10 @@ Link to Tableau Public Data Story:
   
 # Time Constraints:
 
+
+## Project Roles:
+- Overall Project Management/GitHub/Dataset ETL - Doug Aiello
+- Database Design and Production - Angelic Arias
+- Machine Learning Design and Production - Israel Mejia
+- Visualization Design and Production - Andrew Nappi
+- Presentation and Delivery - All

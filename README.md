@@ -102,7 +102,7 @@ o	This can be useful for anyone even perspective tenants to choose where they wo
 Link to Tableau Public Data Story:
 • https://public.tableau.com/views/FinalProject-RDSBC/CrimeMappinginNewYork?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-# Recommendations for Future Analysis:
+Recommendations for Future Analysis:
 - Inclusion of GeoJson Data for both City Borough and NYPD Precincts
 - Would be nice to do a different model predicting the type of crimes in NYC. However due to time, it would have been more complicated to enconde the types of crimes. In the current model, I only have 5 different features to encode, the crimes section has hundreds of different crimes. 
  
